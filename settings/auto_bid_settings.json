@@ -1,0 +1,11 @@
+{
+  "left": 814,
+  "top": 1015,
+  "width": 930,
+  "height": 76,
+  "key": "q",
+  "edge_margin": 3,
+  "poll_ms": 8,
+  "cooldown_ms": 150,
+  "always_on_top": true
+}

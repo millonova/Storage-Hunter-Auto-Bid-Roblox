@@ -1,0 +1,12 @@
+{
+  "left": 874,
+  "top": 1093,
+  "width": 813,
+  "height": 158,
+  "key": "q",
+  "poll_ms": 2,
+  "cooldown_ms": 150,
+  "minimum_edge_pixels": 550,
+  "edge_band_px": 12,
+  "always_on_top": true
+}
