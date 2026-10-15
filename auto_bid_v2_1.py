@@ -221,7 +221,7 @@ class OptimizedBidOutlineApp(BidOutlineApp):
 def main() -> None:
     root = tk.Tk()
     app = OptimizedBidOutlineApp(root)
-    root.title("Bid Outline Macro (V2.1 - Optimized)")
+    root.title("Storage Hunter Auto Bid Roblox (V2.1 - Optimized)")
     root.mainloop()
 
 

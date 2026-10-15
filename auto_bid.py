@@ -169,7 +169,7 @@ class SelectionOverlay:
 class MacroApp:
     def __init__(self, root: tk.Tk) -> None:
         self.root = root
-        self.root.title("Timing Bar Macro")
+        self.root.title("Storage Hunter Auto Bid Roblox (Timing Bar)")
         self.root.resizable(False, False)
         self.config = self.load_settings()
         self.config_lock = threading.Lock()

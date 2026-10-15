@@ -1,4 +1,4 @@
-# Storage Hunter Roblox Auto Bid - Low-Latency Screen Timing & Outline Macro
+# Storage Hunter Auto Bid Roblox
 
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -45,8 +45,8 @@ This repository includes three tailored controllers to suit different game mecha
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/millonova/Auto_Bid.git
-   cd Auto_Bid
+   git clone https://github.com/millonova/Storage-Hunter-Auto-Bid-Roblox.git
+   cd Storage-Hunter-Auto-Bid-Roblox
    ```
 
 2. **Create and activate a virtual environment (optional)**:
