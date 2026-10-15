@@ -1,4 +1,4 @@
-# Auto Bid - Low-Latency Screen Timing & Outline Macro
+# Storage Hunter Roblox Auto Bid - Low-Latency Screen Timing & Outline Macro
 
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -8,7 +8,7 @@ A fast, low-latency screen-based timing macro controller for Windows. Auto Bid d
 
 ---
 
-## ⚡ Core Versions & Features
+## Core Versions & Features
 
 This repository includes three tailored controllers to suit different game mechanics:
 
@@ -29,7 +29,7 @@ This repository includes three tailored controllers to suit different game mecha
 
 ---
 
-## 📋 Requirements
+## Requirements
 
 * **Operating System**: Windows 10 or 11 (64-bit)
 * **Python**: Python 3.10+
@@ -41,7 +41,7 @@ This repository includes three tailored controllers to suit different game mecha
 
 ---
 
-## 🚀 Installation
+## Installation
 
 1. **Clone the repository**:
    ```bash
@@ -62,7 +62,7 @@ This repository includes three tailored controllers to suit different game mecha
 
 ---
 
-## 🎮 How to Run & Use
+## How to Run & Use
 
 ### Running Version 2.1 (Ultra-Low Latency Outline Mode)
 ```powershell
@@ -82,7 +82,7 @@ python auto_bid.py
 
 ---
 
-## ⚙️ Settings & Configuration
+## Settings & Configuration
 
 Settings are saved automatically in `settings/`:
 * `settings/auto_bid_settings.json`
@@ -107,7 +107,7 @@ Example configuration:
 
 ---
 
-## 🛡️ License
+## License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details. Free for personal and educational use.
 
